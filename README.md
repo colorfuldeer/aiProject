@@ -1,0 +1,2 @@
+# aiProject
+Ai technical framework
